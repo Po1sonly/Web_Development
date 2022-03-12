@@ -1,0 +1,11 @@
+body {
+    background-color: #4FC3F7;
+}
+
+#digital-clock{
+    color: white;
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    padding-top: 18%;
+}
